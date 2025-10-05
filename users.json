@@ -1,0 +1,330 @@
+{
+  "5194736461": {
+    "receive": true,
+    "mode": "filtered",
+    "plants": [
+      "Grapes Seed:Strawberry Seed",
+      "Grapes Seed:Sunflower Seed",
+      "Shroombino Seed",
+      "Tomatrio Seed",
+      "Mr Carrot Seed",
+      "Carnivorous Plant Seed",
+      "Cocotank Seed",
+      "Grapes Seed",
+      "Mango Seed"
+    ],
+    "gear": [
+      "Carrot Launcher"
+    ],
+    "rarities": [],
+    "autodelete": false,
+    "autodelete_delay": 5
+  },
+  "7750975770": {
+    "receive": true,
+    "mode": "filtered",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": false,
+    "autodelete_delay": 5
+  },
+  "6626951808": {
+    "receive": false,
+    "mode": "filtered",
+    "plants": [
+      "Tomatrio Seed",
+      "Mr Carrot Seed",
+      "Carnivorous Plant Seed",
+      "Shroombino Seed",
+      "Cactus Seed",
+      "Cactus Seed:Cactus Seed",
+      "Cactus Seed:Strawberry Seed"
+    ],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5568785199": {
+    "receive": true,
+    "mode": "all",
+    "plants": [
+      "Shroombino Seed",
+      "Tomatrio Seed",
+      "Mr Carrot Seed",
+      "Carnivorous Plant Seed",
+      "Cocotank Seed",
+      "Watermelon Seed",
+      "Grapes Seed:Grapes Seed"
+    ],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "6626951808:Shroombino Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "6626951808:Tomatrio Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "6626951808:Mr Carrot Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "6626951808:Carnivorous Plant Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5568785199:Shroombino Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5568785199:Tomatrio Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5568785199:Mr Carrot Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5568785199:Carnivorous Plant Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5568785199:Cocotank Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5568785199:Grapes Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5568785199:Watermelon Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5568785199:Grapes Seed:Grapes Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5194736461:Watermelon Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5194736461:Cocotank Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5194736461:Grapes Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5194736461:Grapes Seed:Strawberry Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5194736461:Grapes Seed:Sunflower Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "6626951808:Cactus Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "6626951808:Cactus Seed:Cactus Seed": {
+    "receive": false,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "5929241160": {
+    "receive": true,
+    "mode": "all",
+    "plants": [
+      "Mr Carrot Seed",
+      "Tomatrio Seed",
+      "Shroombino Seed",
+      "Carnivorous Plant Seed",
+      "Cocotank Seed",
+      "Grapes Seed",
+      "Mango Seed"
+    ],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "6060589541": {
+    "receive": true,
+    "mode": "all",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "7564065723": {
+    "receive": true,
+    "mode": "filtered",
+    "plants": [
+      "Shroombino Seed",
+      "Mango Seed",
+      "Tomatrio Seed",
+      "Mr Carrot Seed",
+      "Carnivorous Plant Seed",
+      "Cocotank Seed",
+      "Grapes Seed"
+    ],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "7584396807": {
+    "receive": false,
+    "mode": "all",
+    "plants": [
+      "Mango Seed",
+      "Tomatrio Seed",
+      "Mr Carrot Seed",
+      "Carnivorous Plant Seed",
+      "Grapes Seed",
+      "Cocotank Seed",
+      "Shroombino Seed"
+    ],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "7137269260": {
+    "receive": true,
+    "mode": "all",
+    "plants": [
+      "Shroombino Seed",
+      "Mango Seed",
+      "Tomatrio Seed",
+      "Mr Carrot Seed",
+      "Carnivorous Plant Seed",
+      "Cocotank Seed",
+      "Grapes Seed"
+    ],
+    "gear": [],
+    "rarities": [
+      "mythic",
+      "secret",
+      "godly",
+      "limited",
+      "legendary",
+      "epic"
+    ],
+    "autodelete": true,
+    "autodelete_delay": 5
+  },
+  "6940822773": {
+    "receive": true,
+    "mode": "filtered",
+    "plants": [],
+    "gear": [],
+    "rarities": [],
+    "autodelete": true,
+    "autodelete_delay": 5
+  }
+}

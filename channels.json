@@ -1,0 +1,32 @@
+{
+  "5194736461": [
+    {
+      "id": -1002807167738,
+      "mode": "all",
+      "plants": [],
+      "gear": [],
+      "rarities": [],
+      "autodelete": true,
+      "autodelete_delay": 5
+    },
+    {
+      "id": -1003147185710,
+      "mode": "custom",
+      "plants": [
+        "Shroombino Seed",
+        "Tomatrio Seed",
+        "Mr Carrot Seed",
+        "Carnivorous Plant Seed",
+        "Cocotank Seed",
+        "Mango Seed"
+      ],
+      "gear": [],
+      "rarities": [],
+      "autodelete": true,
+      "autodelete_delay": 4320,
+      "required_subs": [
+        -1003147185710
+      ]
+    }
+  ]
+}
